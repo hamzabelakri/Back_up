@@ -1,0 +1,2 @@
+when log out, the layout is gone
+In the ServerForm page, the initial connection attempt succeeds, but subsequent attempts fail. This issue may arise from the form not recognizing the IP and Port fields properly. Further investigation is needed to identify the root cause and implement a resolution.
